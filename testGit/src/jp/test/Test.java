@@ -4,7 +4,7 @@
 package jp.test;
 
 /**
- * @author TEST TEST
+ * @author TEST 
  *
  */
 public class Test {
